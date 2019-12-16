@@ -13,7 +13,7 @@ redis.port: "6379"
 signing.key: "345345fsdfsf5345"
 
 # resultservice
-ecorz.results.resultsdumpfolder: "./resultsDump"
+ecorz.results.resultsdumpfolder: "resultsDump"
 
 # runservice
 ecorz.lb.ip: "192.168.0.13"
