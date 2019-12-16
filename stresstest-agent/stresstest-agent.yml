@@ -21,7 +21,7 @@ ecorz.lb.port: "8080"
 
 # jmeter
 ecorz.jmeter.home: "/home/florian/apache-jmeter-5.2.1"
-ecorz.jmeter.home.bin: ${ecorz.jmeter.home}/bin
+ecorz.jmeter.home.bin: "/home/florian/apache-jmeter-5.2.1/bin"
 ecorz.jmeter.fs.base.directory: "/home/florian/apache-jmeter-5.2.1/bin/own_plans/dump"
 
 # service
