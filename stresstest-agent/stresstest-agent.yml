@@ -16,8 +16,8 @@ signing.key: "345345fsdfsf5345"
 ecorz.results.resultsdumpfolder: "resultsDump"
 
 # runservice
-ecorz.lb.ip: "192.168.0.13"
-ecorz.lb.port: "8080"
+ecorz.lb.ip: 192.168.0.13
+ecorz.lb.port: 8080
 
 # jmeter
 ecorz.jmeter.home: "/home/florian/apache-jmeter-5.2.1"
