@@ -23,6 +23,8 @@ ecorz.lb.port: "8080"
 ecorz.jmeter.home: "/home/florian/apache-jmeter-5.2.1"
 ecorz.jmeter.home.bin: "/home/florian/apache-jmeter-5.2.1/bin"
 ecorz.jmeter.fs.base.directory: "/home/florian/apache-jmeter-5.2.1/bin/own_plans/dump"
+ecorz.jmeter.test.duration: 60
+ecorz.jmeter.test.delay: 5
 
 # service
 example.property: "I AM AN EXAMPLE"
