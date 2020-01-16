@@ -23,11 +23,11 @@ ecorz.lb.port: 80
 ecorz.jmeter.home: "/home/florian/apache-jmeter-5.2.1"
 ecorz.jmeter.home.bin: "/home/florian/apache-jmeter-5.2.1/bin"
 ecorz.jmeter.fs.base.directory: "/home/florian/apache-jmeter-5.2.1/bin/own_plans/dump"
-ecorz.jmeter.custom.jar.dir: "../../jmeterengine/0.0.1-SNAPSHOT"
 ecorz.jmeter.test.duration: 60
 ecorz.jmeter.test.delay: 5
+ecorz.jmeter.engine.custom.jar.dir: "../../jmeterengine/0.0.1-SNAPSHOT"
 ecorz.jmeter.engine.main.class: "com.ecorz.stressapp.jmeterengine.Application"
-ecorz.jmeter.cp: "../../jmeter-engine/target/jmeterengine-0.0.1-SNAPSHOT-jar-with-dependencies.jar:/home/florian/Development/ecorz-efficiency-testing/ecorz-eff-test-app/jmeter-engine/target/classes"
+ecorz.jmeter.engine.cp: "../../jmeter-engine/target/jmeterengine-0.0.1-SNAPSHOT-jar-with-dependencies.jar:/home/florian/Development/ecorz-efficiency-testing/ecorz-eff-test-app/jmeter-engine/target/classes"
 
 # service
 example.property: "I AM AN EXAMPLE"
