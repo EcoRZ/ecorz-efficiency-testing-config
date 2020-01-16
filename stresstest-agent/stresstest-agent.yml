@@ -24,7 +24,7 @@ ecorz.jmeter.home: "/home/florian/apache-jmeter-5.2.1"
 ecorz.jmeter.home.bin: "/home/florian/apache-jmeter-5.2.1/bin"
 ecorz.jmeter.fs.base.directory: "/home/florian/apache-jmeter-5.2.1/bin/own_plans/dump"
 ecorz.jmeter.custom.jar.dir: "../../jmeterengine/0.0.1-SNAPSHOT"
-ecorz.jmeter.custom.jar.file: "jmeterengine-0.0.1-SNAPSHOT.jar"
+ecorz.jmeter.custom.jar.file: "jmeterengine-0.0.1-SNAPSHOT-jar-with-dependencies.jar"
 ecorz.jmeter.test.duration: 60
 ecorz.jmeter.test.delay: 5
 
