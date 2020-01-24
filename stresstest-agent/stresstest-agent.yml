@@ -29,5 +29,10 @@ ecorz.jmeter.engine.custom.jar.dir: "../../jmeter-engine/target"
 ecorz.jmeter.engine.main.class: "com.ecorz.stressapp.jmeterengine.Application"
 ecorz.jmeter.engine.cp: "../../jmeter-engine/target/jmeterengine-0.0.1-SNAPSHOT-jar-with-dependencies.jar:/home/florian/Development/ecorz-efficiency-testing/ecorz-eff-test-app/jmeter-engine/target/classes"
 
+# prometheus
+ecorz.prometheus.user: "user"
+ecorz.prometheus.password: "pw"
+ecorz.prometheus.rest.end: "127.0.0.1:9000/api/v1"
+
 # service
 example.property: "I AM AN EXAMPLE"
