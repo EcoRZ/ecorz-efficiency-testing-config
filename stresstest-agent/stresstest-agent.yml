@@ -35,6 +35,8 @@ ecorz.prometheus.password: "pw"
 ecorz.prometheus.rest.end: "127.0.0.1:9000/api/v1"
 ecorz.prometheus.start.measure.offset: 10000
 ecorz.prometheus.end.measure.offset: 10000
+ecorz.prometheus.node19.cpus: 1
+ecorz.prometheus.node20.cpus: 2
 
 # service
 example.property: "I AM AN EXAMPLE"
