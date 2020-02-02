@@ -37,7 +37,7 @@ ecorz.prometheus.start.measure.offset: 10000
 ecorz.prometheus.end.measure.offset: 10000
 ecorz.prometheus.timestep: "10s"
 ecorz.prometheus.query.cmd.ident: "query_range?query"
-ecorz.prometheus.url.enc.query.template: = "ipmi_power_watts%7Bid%3D%22${id}%22%2Cinstance%3D%22computenode${node_nmbr}%22%2Cjob%3D%22ipmi%22%2Cname%3D%22System%20Level%22%7D&start=${start_time}&end=${end_time}&step=${t_step}"
+ecorz.prometheus.url.enc.query.template: = "ipmi_power_watts%7Bid%3D%22\${id}%22%2Cinstance%3D%22computenode\${node_nmbr}%22%2Cjob%3D%22ipmi%22%2Cname%3D%22System%20Level%22%7D&start=\${start_time}&end=\${end_time}&step=\${t_step}"
 ecorz.prometheus.node19.id: 74
 # set dummy value as metric is atm not available for node 20
 ecorz.prometheus.node20.id: 75
