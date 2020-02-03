@@ -33,6 +33,8 @@ ecorz.jmeter.engine.cp: "../../jmeter-engine/target/jmeterengine-0.0.1-SNAPSHOT-
 ecorz.prometheus.user: "user"
 ecorz.prometheus.password: "pw"
 ecorz.prometheus.rest.end: "127.0.0.1:9000/api/v1"
+# 2h
+ecorz.prometheus.instance.minus.offset: 7200000
 ecorz.prometheus.start.measure.offset: 10000
 ecorz.prometheus.end.measure.offset: 10000
 ecorz.prometheus.timestep: "10s"
