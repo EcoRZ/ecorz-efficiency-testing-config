@@ -19,7 +19,7 @@ ecorz.results.resultsdumpfolder: "/home/florian/Development/ecorz-efficiency-tes
 ecorz.lb.ip: 192.168.0.13
 ecorz.lb.port: 80
 ecorz.ws.content.str.apache: "particular configuration snippets which manage modules, global configuration"
-ecorz.ws.content.str.python: "jmeter/"
+ecorz.ws.content.str.python: "Directory listing for /"
 ecorz.ws.content.str.use: "python"
 
 # jmeter
